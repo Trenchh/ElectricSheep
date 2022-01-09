@@ -1,2 +1,2 @@
 # ElectricSheep
-CISC226 Game Project
+CISC226 Project - Electric Sheep is a 2D top-down dungeon crawler game
